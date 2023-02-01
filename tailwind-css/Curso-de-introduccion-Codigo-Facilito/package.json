@@ -1,0 +1,16 @@
+{
+  "name": "Curso-de-introduccion-Codigo-Facilito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tailwindcss-cli@latest build tailwind.css -o public/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.1.4"
+  }
+}
